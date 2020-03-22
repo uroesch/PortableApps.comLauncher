@@ -1,0 +1,17 @@
+PortableApps.comLauncherGenerator.exe filter=lfs diff=lfs merge=lfs -text
+*.bmp filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.dia filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.gif filter=lfs diff=lfs merge=lfs -text
+*.ico filter=lfs diff=lfs merge=lfs -text
+*.chm filter=lfs diff=lfs merge=lfs -text
+App/NSIS/Stubs/lzma filter=lfs diff=lfs merge=lfs -text
+App/NSIS/Stubs/lzma_solid filter=lfs diff=lfs merge=lfs -text
+App/NSIS/Stubs/uninst filter=lfs diff=lfs merge=lfs -text
+App/NSIS/Stubs/zlib filter=lfs diff=lfs merge=lfs -text
+App/NSIS/Stubs/zlib_solid filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+App/NSIS/Stubs/bzip2 filter=lfs diff=lfs merge=lfs -text
+App/NSIS/Stubs/bzip2_solid filter=lfs diff=lfs merge=lfs -text
