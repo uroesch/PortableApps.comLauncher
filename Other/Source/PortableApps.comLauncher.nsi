@@ -25,6 +25,14 @@
 	!define PACKAGE ..\..
 !endif
 
+!ifndef AppIcon
+  !define AppIcon "${PACKAGE}\App\AppInfo\appicon.ico"
+!endif
+
+!ifndef Version
+  !define Version "2.2.3.0-uroesch"
+!endif
+
 !macro !echo msg
 	!verbose push
 	!verbose 4
