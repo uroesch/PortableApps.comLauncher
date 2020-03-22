@@ -26,6 +26,14 @@
 	!define PACKAGE ..\..
 !endif
 
+!ifndef AppIcon
+	!define AppIcon "${PACKAGE}\App\AppInfo\appicon.ico"
+!endif
+
+!ifndef Version
+	!define Version "2.2.2.0-uroesch"
+!endif
+
 !macro !echo msg
 	!verbose push
 	!verbose 4
@@ -149,7 +157,7 @@ ${!echo} "Specifying program details and setting options..."
 
 Name "${NamePortable} (PortableApps.com Launcher)"
 OutFile "${PACKAGE}\${AppID}.exe"
-Icon "${PACKAGE}\App\AppInfo\appicon.ico"
+Icon "${AppIcon}"
 Caption "${NamePortable} (PortableApps.com Launcher)"
 VIProductVersion ${Version}
 VIAddVersionKey ProductName "${NamePortable}"
