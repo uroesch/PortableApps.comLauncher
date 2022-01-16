@@ -1,6 +1,5 @@
-/* Copyright 2004-2010 PortableApps.com
- * Website: http://portableapps.com/development
- * Main developer and contact: Chris Morgan
+/* Copyright 2004-2021 PortableApps.com
+ * Website: https://portableapps.com/development
  *
  * This software is OSI Certified Open Source Software.
  * OSI Certified is a certification mark of the Open Source Initiative.

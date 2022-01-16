@@ -11,6 +11,7 @@
 !define IncludeLang "!insertmacro IncludeLang"
 ${IncludeLang} English
 ${IncludeLang} Bulgarian
+${IncludeLang} Czech
 ${IncludeLang} Danish
 ${IncludeLang} Dutch
 ${IncludeLang} Estonian
