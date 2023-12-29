@@ -15,6 +15,7 @@ ${IncludeLang} Czech
 ${IncludeLang} Danish
 ${IncludeLang} Dutch
 ${IncludeLang} Estonian
+${IncludeLang} Farsi
 ${IncludeLang} Finnish
 ${IncludeLang} French
 ${IncludeLang} Galician

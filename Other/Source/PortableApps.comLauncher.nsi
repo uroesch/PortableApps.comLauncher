@@ -1,4 +1,4 @@
-/* Copyright 2004-2021 PortableApps.com
+/* Copyright 2004-2023 PortableApps.com
  * Website: https://portableapps.com/development
  *
  * This software is OSI Certified Open Source Software.

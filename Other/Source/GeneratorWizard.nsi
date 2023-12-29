@@ -1,4 +1,4 @@
-﻿;Copyright 2006-2021 John T. Haller
+﻿;Copyright 2006-2023 John T. Haller
 ;Website: https://portableapps.com/
 
 ;This software is OSI Certified Open Source Software.
@@ -18,10 +18,6 @@
 ;along with this program; if not, write to the Free Software
 ;Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
-;=== For NSIS3
-;Unicode true 
-;ManifestDPIAware true
-
 !define CustomIconAndName
 
 ;=== Require at least Unicode NSIS 2.46
@@ -32,14 +28,14 @@ Name "PortableApps.com Launcher Generator"
 OutFile ..\..\PortableApps.comLauncherGenerator.exe
 Icon ..\..\App\AppInfo\appicon.ico
 Caption "PortableApps.com Launcher Generator"
-VIProductVersion 2.2.3.0
+VIProductVersion 2.2.4.0
 VIAddVersionKey ProductName "PortableApps.com Launcher Generator"
 VIAddVersionKey Comments "A compiler for custom PortableApps.com Launcher builds. For additional details, visit PortableApps.com"
 VIAddVersionKey CompanyName PortableApps.com
 VIAddVersionKey LegalCopyright PortableApps.com
 VIAddVersionKey FileDescription "PortableApps.com Launcher Generator"
-VIAddVersionKey FileVersion 2.2.3.0
-VIAddVersionKey ProductVersion 2.2.3.0
+VIAddVersionKey FileVersion 2.2.4.0
+VIAddVersionKey ProductVersion 2.2.4.0
 VIAddVersionKey InternalName "PortableApps.com Launcher Generator"
 VIAddVersionKey LegalTrademarks "PortableApps.com is a Trademark of Rare Ideas, LLC."
 VIAddVersionKey OriginalFilename PortableApps.comLauncherGenerator.exe
